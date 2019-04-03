@@ -6,7 +6,7 @@ We reference the KiCad libs as submodules, so to get them, do:
 
 `git clone git@bitbucket.org:okrasolar/kicad-libs.git --recursive`
 
-It you have shitty internet, and don't want to download
+It you have limited bandwidth internet access, and don't want to download
 1Gb worth of component 3D models, do:
 
 `git clone git@bitbucket.org:okrasolar/kicad-libs.git`
